@@ -2,7 +2,7 @@
 
 ## Exploratory data Analysis of [adult dataset](https://archive.ics.uci.edu/dataset/2/adult)
 
-## Check our ppt for more info [here](https://github.com/PedGit025/Detecting-Affluence-Rate-on-Census-Dataset/blob/main/Detecting%20Affluence%20Rate%20on%20Census%20Dataset.pdf)
+## Check our ppt for data analysis and more info [here](https://github.com/PedGit025/Detecting-Affluence-Rate-on-Census-Dataset/blob/main/Detecting%20Affluence%20Rate%20on%20Census%20Dataset.pdf)
 
 
 # Thanks to
